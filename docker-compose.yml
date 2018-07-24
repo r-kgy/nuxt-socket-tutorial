@@ -1,0 +1,10 @@
+version: '3'
+services:
+  nuxt:
+    build: ./nuxt
+    command: yarn run dev
+    volumes:
+      - ./nuxt:/nuxt
+    ports:
+      - "3000:3000"
+      - "9229:9229"
