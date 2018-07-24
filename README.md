@@ -2,8 +2,10 @@
 
 https://qiita.com/_rema_lp/items/c1ef92625ecaf4421e6f
 
-```
-docker-compose build nuxt
+# How to Build
 
-docker-compose up
+```
+$ docker-compose build nuxt
+
+$ docker-compose up
 ```
