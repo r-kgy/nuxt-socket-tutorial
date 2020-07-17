@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "webpack-bundle-analyzer": "^3.3.2"
   }
 }
